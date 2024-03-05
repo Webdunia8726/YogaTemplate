@@ -1,0 +1,28 @@
+.btngym{
+    background-color: #FFC374;
+    width: 150px;
+    border: none;
+    padding:5px;
+    font-weight: bolder;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+}
+.btngym:hover{
+    background-color: #EE4266;
+    color: white;
+}
+.background1{
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.imgprog{
+width: 200px;
+height: 200px;
+
+}
+iframe{
+    border-radius: 20px;
+}
+.form-control{
+    border: 2px solid black;
+}
